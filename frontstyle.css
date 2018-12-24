@@ -1,0 +1,15 @@
+.title {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+}
+
+.printPreviewButton {
+    margin-bottom: 30px;
+}
+
+.separate {
+    content: ' ';
+    padding: 20px;
+}
+
